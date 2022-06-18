@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DotBi
 - 👀 I’m interested in programming
-Halooo dan selamat datang :)
+- Halooo dan selamat datang :)
 
 <!---
 DotBi/DotBi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
